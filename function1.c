@@ -6,7 +6,7 @@ main()
 	add();  // function calling
 }
 
-void add()  // function defination
+  void add()  // function defination
 {
 	int a,b;
 	printf("enter two numbers\n");
