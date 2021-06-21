@@ -1,8 +1,8 @@
 main()
 {
 
-/*int x;
-printf("enter the value");
+/*int x;   // other methods
+printf("enter the value"); 
 scanf("%d \n",&x);
 while(x<9)
 {
